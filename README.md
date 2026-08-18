@@ -2,6 +2,8 @@
 
 A web-based **Student Management System** developed using **Python and Django**. The application provides a simple interface to manage student information and perform basic CRUD operations.
 
+**Live Demo:** https://student-management-system-1-h22s.onrender.com/
+
 ## 🚀 Features
 
 * Add new students
